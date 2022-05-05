@@ -1,17 +1,8 @@
-Prueba clase 2 git
+Prueba clase 5 git
 
-hoy es lunes 25-04
+hoy es miercoles 04-05
 
 Son las 20:58 hs y tengo sueño
 
-ya es de noche y se viene la lluvia.
 
-estoy en la rama testing
-
-se hizo de noche
-
-vamos a probar merge sort
-
-Vamos a generar un conflicto
-agregamos mas lineas de codigo
-espero que se rompa
+String function Hola() { return "hola"}
